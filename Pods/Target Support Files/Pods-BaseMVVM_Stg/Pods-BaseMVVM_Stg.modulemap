@@ -1,0 +1,6 @@
+framework module Pods_BaseMVVM_Stg {
+  umbrella header "Pods-BaseMVVM_Stg-umbrella.h"
+
+  export *
+  module * { export * }
+}
